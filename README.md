@@ -61,7 +61,7 @@ I am a software developer and I love to create solutions for problems and help t
   <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" height="35px"/> 
   &nbsp;
   <label>
-    I am graduated in Development and Analyze's Systems by Nordeste Technology College
+    I graduated in Development and Analyze's Systems by Nordeste Technology College
   <label/>
   <br />
     
