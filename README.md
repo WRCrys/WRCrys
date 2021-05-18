@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <a href="https://www.linkedin.com/in/crystyano-almeida-2a15a89a/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/WRCrys/WRCrys/main/hi-there.webp"></a>
 **I'm Crystyano Almeida.** 
 
 I am a software developer and I love to create solutions for problems and help to build a better future.
@@ -87,8 +87,14 @@ I am a software developer and I love to create solutions for problems and help t
   <br />
 <p/>
     
-## Finally
+## If you want contact me...
+<a href="https://www.linkedin.com/in/crystyano-almeida-2a15a89a/"><img width="96" height="96" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
+<a href="mailto:winnerbyjesus@gmail.com"><img width="96" height="96" src="https://img.icons8.com/color/96/000000/gmail.png"></a>
+    
+## Finally <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/WRCrys/WRCrys/main/bear.webp">
 ### I want to be the best person, developer and professional than I can be everyday.
+    
+    
 
 <!--
 **WRCrys/WRCrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
