@@ -11,7 +11,7 @@ I am a software developer and I love to create solutions for problems and help t
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
 :floppy_disk: Database: **SQL Server**, **MySql**, **PostgreSQL**, **Firebase (Cloud Firestore/Real Time)**<br/>
 
-## But also I develop using...
+## But also I develop using... <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/WRCrys/WRCrys/main/develop.webp">
 #### Front-End
 <p>
   <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
@@ -56,7 +56,7 @@ I am a software developer and I love to create solutions for problems and help t
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
 <p/>
 
-## It's me... Crystyano!
+## It's me... Crystyano! <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/WRCrys/WRCrys/main/its-me.webp">
 <p>
   <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" height="35px"/> 
   &nbsp;
