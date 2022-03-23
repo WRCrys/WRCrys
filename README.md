@@ -14,7 +14,7 @@ I am a software developer and I love to create solutions for problems and help t
 ## But also I develop using... <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/WRCrys/WRCrys/main/develop.webp">
 #### Front-End
 <p>
-  <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+  <img src="https://img.icons8.com/color/344/react-native.png" height="35px"/> 
   &nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
   &nbsp;  
@@ -34,7 +34,7 @@ I am a software developer and I love to create solutions for problems and help t
 
 #### Moblie Development
 <p>
-  <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+  <img src="https://img.icons8.com/color/344/react-native.png" height="35px"/> 
   &nbsp;
   <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/> 
   &nbsp;
